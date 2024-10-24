@@ -51,7 +51,7 @@ def print_grid_by_diagonals(grid):
 
 
 
-file_path = '/mnt/data/wood.txt'  # Путь к файлу
+file_path = '/mnt/data/wood.txt'  
 
 
 grid = read_grid(file_path)
